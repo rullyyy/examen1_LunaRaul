@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E1LunaRaul</string>
+    <string name="title">Tipping and Saving</string>
+    <string name="original_price">ORIGINAL PRICE</string>
+    <string name="percentage">PERCENTAGE</string>
+    <string name="total"> TOTAL</string>
+    <string name="tip">TIP</string>
+    <string name="discount">DISCOUNT</string>
+</resources>
